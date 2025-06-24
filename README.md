@@ -1,6 +1,8 @@
 # Bridging Basic Chemistry and Cheminformatics: Jupyter-based Modules on Molecular Representation for Introductory Chemistry
 
-**Author:** Kevin P. Greenman, Ph.D. (MolSSI ACT-CMS Faculty Fellow 2024-2026)
+**Author:** Prof. Kevin P. Greenman, Ph.D. (Catholic Institute of Technology, MolSSI ACT-CMS Faculty Fellow 2024-2026)
+
+> **Note:** These materials are under development and will be first piloted in a course in Fall 2025.
 
 ## Learning Objectives
 
@@ -18,3 +20,7 @@
 * Clean and visualise chemical datasets using pandas, RDKit, and other Python operations.
 * Use Colab GPU resources to train a basic Chemprop (graph neural-network) model.
 * Visualise ML regression results with matplotlib.
+
+## Acknowledgements
+
+This work was supported by the [MolSSI ACT-CMS Faculty Fellowship program](https://act-cms.molssi.org/), funded by the Office of Advanced Cyberinfrastructure (OAC) NSF Award OAC 2321044.
